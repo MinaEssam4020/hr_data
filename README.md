@@ -51,7 +51,7 @@ In a corporate setting, results can be shared online on www.powerbi.com
 
 
 ### 1) Create Database
-``` SQL
+
 CREATE DATABASE hr;
 ```
 ### 2) Import Data to SQL Server
